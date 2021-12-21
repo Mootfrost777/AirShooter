@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Semejkin_AV/Desktop/Андрей/Projects/Game_secondCourse_MonoGame_'AirShooter'/AirShooter/AirShooter/Content/box.jpg</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Андрей/Projects/Game_secondCourse_MonoGame_'AirShooter'/AirShooter/AirShooter/Content/endMenu.png</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Андрей/Projects/Game_secondCourse_MonoGame_'AirShooter'/AirShooter/AirShooter/Content/explosion3.png</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Андрей/Projects/Game_secondCourse_MonoGame_'AirShooter'/AirShooter/AirShooter/Content/GameFont.spritefont</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Андрей/Projects/Game_secondCourse_MonoGame_'AirShooter'/AirShooter/AirShooter/Content/laser.png</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Андрей/Projects/Game_secondCourse_MonoGame_'AirShooter'/AirShooter/AirShooter/Content/mainbackground.png</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Андрей/Projects/Game_secondCourse_MonoGame_'AirShooter'/AirShooter/AirShooter/Content/Menu.png</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Андрей/Projects/Game_secondCourse_MonoGame_'AirShooter'/AirShooter/AirShooter/Content/mine.png</File>
+    <File>C:/Users/Semejkin_AV/Desktop/Андрей/Projects/Game_secondCourse_MonoGame_'AirShooter'/AirShooter/AirShooter/Content/player.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
